@@ -17,4 +17,4 @@ This project demonstrates DOM manipulation, event handling, and time calculation
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/stopwatch.git
+   git clone https://github.com/yvonneaziz/stopwatch.git
