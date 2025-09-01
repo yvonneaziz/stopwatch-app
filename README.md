@@ -12,7 +12,7 @@ This project demonstrates DOM manipulation, event handling, and time calculation
 ## Tech Stack
 - HTML  
 - CSS  
-- JavaScript  
+
 
 ## How to Run
 1. Clone this repository:
